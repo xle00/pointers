@@ -1,6 +1,6 @@
 {
-    "gift_0_timer": ["GameAssembly.dll", "2373b20", "b8 18 310 1F0 20 C0 14"],
+    "gift_0_timer": ["GameAssembly.dll", "23c6ac8", "b8 18 310 1F0 20 C0 14"],
     "clock": ["UnityPlayer.dll", "014E30A0", "48 80 10 b8 10 20 10"],
-    "gift_amount": ["UnityPlayer.dll", "014E2D68", "b8 0 20 490 10 a70 18"],
-    "bonus_amount": ["UnityPlayer.dll", "014E2D68", "b8 0 20 490 10 a78 18"]
+    "gift_amount": ["UnityPlayer.dll", "014E2D68", "b8 0 20 490 10 a80 18"],
+    "bonus_amount": ["UnityPlayer.dll", "014E2D68", "b8 0 20 490 10 a88 18"]
 }
