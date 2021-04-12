@@ -3,5 +3,5 @@
       "quest_points": ["GameAssembly.dll", "244d7c0", "B8 18 310 340 30 C0 14"],
        "quest_requirements": ["GameAssembly.dll", "244d7c0", "B8 18 310 340 28 C0 14"],
         "quest_time": ["GameAssembly.dll", "244d7c0", "B8 18 310 2A8 C8 18 14"],
-         "player_name": ["GameAssembly.dll", "244d7c0", "B8 18 520 330 328 18 14"],
+         "player_name": ["GameAssembly.dll", "244d7c0", "B8 18 520 330 348 18 14"],
           "quest_name": ["GameAssembly.dll", "244d7c0", "B8 18 310 340 20 C0 14"]}
