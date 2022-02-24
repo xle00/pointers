@@ -1,7 +1,37 @@
-{"active_time": ["UnityPlayer.dll", "14E2D68", "B8 0 20 318 3E0 18 14"],
-     "clock": ["UnityPlayer.dll", "14E30A0", "48 80 10 B8 10 20 10"],
-     "quest_points": ["GameAssembly.dll", "27e61a0", "B8 18 318 340 30 C0 14"],
-     "quest_requirements": ["GameAssembly.dll", "27e61a0", "B8 18 318 340 28 C0 14"],
-     "quest_time": ["GameAssembly.dll", "27e61a0", "B8 18 318 2A8 C8 18 14"],
-     "player_name": ["GameAssembly.dll", "27e61a0", "B8 18 520 338 350 18 14"],
-     "quest_name": ["GameAssembly.dll", "27e61a0", "B8 18 318 340 20 C0 14"]}
+{
+     "active_time": [
+       "UnityPlayer.dll",
+       "14E2D68",
+       "B8 0 20 318 3E0 18 14"
+     ],
+     "clock": [
+       "UnityPlayer.dll",
+       "14E30A0",
+       "48 80 10 B8 10 20 10"
+     ],
+     "quest_points": [
+       "GameAssembly.dll",
+       "27f2f58",
+       "B8 18 318 340 30 C0 14"
+     ],
+     "quest_requirements": [
+       "GameAssembly.dll",
+       "27F2F58",
+       "B8 18 318 340 28 C0 14"
+     ],
+     "quest_time": [
+       "GameAssembly.dll",
+       "27F2F58",
+       "B8 18 318 2A8 C8 18 14"
+     ],
+     "player_name": [
+       "GameAssembly.dll",
+       "27F2F58",
+       "B8 18 310 b28 380 48 14"
+     ],
+     "quest_name": [
+       "GameAssembly.dll",
+       "27F2F58",
+       "B8 18 318 340 20 C0 14"
+     ]
+   }
